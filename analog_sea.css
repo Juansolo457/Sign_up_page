@@ -1,6 +1,6 @@
 
 body {
-    background: #298eea;
+    background: red;
     font-family: 'Roboto', helvetica, sans-serif;
     padding: 0;
     margin: 0;
@@ -104,6 +104,7 @@ button:hover[type='submit'] {
 }
 
 /* footer */
+
 .footer {
     text-align: center;
     color: white;
@@ -120,5 +121,3 @@ button:hover[type='submit'] {
 .footer a:hover { color: #E7F1F9 }
 
 .footer p { margin-bottom: 40px }
-Contact GitHub API Training Shop Blog About
-© 2016 GitHub, Inc. Terms Privacy Security Status Help
